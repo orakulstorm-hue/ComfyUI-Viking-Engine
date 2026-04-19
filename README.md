@@ -2,6 +2,8 @@
 
 
 
+
+
 # Viking Memory Bridge: Direct RAM Mapping for PyTorch/CUDA
 
 High-performance memory management overhaul for Stability Matrix and ComfyUI. Designed to eliminate System Pagefile (SSD Swap) bottlenecks when working with high-parameter models and extreme resolutions (8K/16K).
@@ -76,11 +78,11 @@ Warning: This is a backend modification. Backup your environment before proceedi
 ![Example images](images/image2.jpg)
 
 ## Video: 120 steps, resolution 32768x18432, 6 min generation time
-<video src="video/video.mp4" controls="controls" style="max-width: 100%;"></video>
+
 
 ## Special thanks:
 
-- Jaret Burkett (Ostris) - AI-Toolkit author, [PR request](https://github.com/orakulstorm-hue/ai-toolkit)
+- Jaret Burkett (Ostris) - AI-Toolkit author (https://github.com/orakulstorm-hue/ai-toolkit)
 - ComfyUI developers - Official (https://github.com/comfy-org/ComfyUI)
 
 
