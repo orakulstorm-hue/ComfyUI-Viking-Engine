@@ -22,7 +22,7 @@ Standard CUDA pinning in PyTorch often defaults to slow system swap when VRAM is
 
 ## 3. Installation
 Warning: This is a backend modification. Backup your environment before proceeding.
-1. Locate your Python environment's CUDA directory: .../site-packages/torch/cuda/
+1. Locate your Python environment's CUDA directory: Data\Packages\ComfyUI\venv\Lib\site-packages\torch\cuda\
 2. Replace the original files with the modified versions from this repository.
 3. Restart your Stability Matrix/ComfyUI backend.
 
@@ -30,6 +30,8 @@ Warning: This is a backend modification. Backup your environment before proceedi
 - Inference Speed: Up to 3x faster on heavy models when VRAM is full.
 - Stability: 0% Pagefile usage; 100% stable 16K tiled encoding.
 
+## 5. Example images
+image1.jpg
 
 ##Special thanks:
 
