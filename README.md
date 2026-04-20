@@ -167,7 +167,8 @@ During generation:
 Total memory footprint: ~120GB
 
 
-![image](images/image5.png)
+<img width="2836" height="1546" alt="image5" src="https://github.com/user-attachments/assets/2524087c-f3a6-4887-aff6-ca86b418ff62" />
+
 
 
 
