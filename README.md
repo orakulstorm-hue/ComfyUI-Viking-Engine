@@ -210,12 +210,12 @@ cp -r comfy/ldm/modules/diffusionmodules/util.py{,.backup}
 
 ```bash
 # Copy Viking Engine files:
-cp _device_limits.py → comfy/ldm/modules/diffusionmodules/
-cp _pin_memory_utils.py → comfy/ldm/modules/diffusionmodules/
-cp _utils.py → comfy/ldm/modules/diffusionmodules/
-cp graphs.py → comfy/cuda/
-cp streams.py → comfy/cuda/
-cp nodes.py → comfy/
+cp _device_limits.py → Data\Packages\ComfyUI\venv\Lib\site-packages\torch\cuda\
+cp _pin_memory_utils.py → Data\Packages\ComfyUI\venv\Lib\site-packages\torch\cuda\
+cp _utils.py → Data\Packages\ComfyUI\venv\Lib\site-packages\torch\cuda\
+cp graphs.py → Data\Packages\ComfyUI\venv\Lib\site-packages\torch\cuda\
+cp streams.py → Data\Packages\ComfyUI\venv\Lib\site-packages\torch\cuda\
+cp nodes.py → Data\Packages\ComfyUI\
 
 # Or apply as patch:
 git apply viking_engine.patch
