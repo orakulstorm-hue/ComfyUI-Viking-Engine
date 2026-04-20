@@ -260,7 +260,7 @@ RAM requirements scale:
 **Included in repo:**
 
 ### **Image:**
-- File: ![images](images/image5.png)
+- File: images/image5.png
 - Resolution: 32,768 × 18,432 pixels
 - Size: 164.3 MB
 - Subject: Photorealistic rain scene
