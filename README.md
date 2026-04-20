@@ -167,7 +167,8 @@ During generation:
 Total memory footprint: ~120GB
 
 
-<img width="2836" height="1546" alt="Снимок экрана 2026-04-20 105046" src="https://github.com/user-attachments/assets/491aa20a-464a-4131-b084-f721404363d4" />
+<img width="2836" height="1546" alt="Снимок экрана 2026-04-20 105046" src="https://github.com/user-attachments/assets/51d699e2-e90f-4e25-b928-f7fbb3ac89fd" />
+
 
 
 ```
