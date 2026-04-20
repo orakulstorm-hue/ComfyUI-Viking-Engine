@@ -15,7 +15,7 @@ Modified ComfyUI CUDA backend that enables **32K+ image and video generation** o
 - Image: 32,768 × 18,432 pixels (604 megapixels!)
 - Video: High-resolution video generation (video/Demo2.mp4)
 - System: Single RTX 4090 (24GB VRAM)
-<video src="Demo2.mp4" controls="controls" style="max-width: 100%;"></video>
+<video src="video/Demo2.mp4" controls="controls" style="max-width: 100%;"></video>
 ---
 
 ## 🔥 Key Modifications
@@ -155,12 +155,11 @@ def synchronize(self) -> None:
 ```
 Image: 32,768 × 18,432 pixels
 File size: 164.3 MB 
-![as shown in screensho](images/image4.jpg)
 During generation:
 ├─ VRAM: ~23.5GB (98% of 24GB)
 ├─ RAM: ~95GB (pinned + mapped)
-
 Total memory footprint: ~120GB
+![as shown in screensho](images/image5.png)
 ```
 
 ### **Generation Time (estimated):**
