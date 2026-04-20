@@ -96,7 +96,7 @@ Fast, VRAM saved for computations
 
 ### **4. CUDA Stream Priority**
 
-**File:** `streams.py`
+**File:** [streams.py](viking_core/streams.py)
 
 ```python
 # VIKING EDIT: Highest priority streams (-1)
@@ -112,7 +112,7 @@ def __new__(cls, device=None, priority=-1, **kwargs):
 
 ### **5. Auto-Recovery & Stability**
 
-**File:** `_utils.py`
+**File:** [_utils.py](viking_core/_utils.py)
 
 ```python
 # VIKING AUTO-RECOVERY:
