@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/75d44cae-0796-43ae-8159-52321998ab68
 
 ### **1. Resolution Unlock**
 
-**File:** `[nodes.py](viking_core/nodes.py)` (line 57)
+**File:** [nodes.py](viking_core/nodes.py) (line 57)
 
 ```python
 # BEFORE:
