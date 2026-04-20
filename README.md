@@ -155,7 +155,7 @@ def synchronize(self) -> None:
 ```
 Image: 32,768 × 18,432 pixels
 File size: 164.3 MB 
-![as shown in screensho](images/image.png)
+![as shown in screensho](images/image5.png)
 During generation:
 ├─ VRAM: ~23.5GB (98% of 24GB)
 ├─ RAM: ~95GB (pinned + mapped)
