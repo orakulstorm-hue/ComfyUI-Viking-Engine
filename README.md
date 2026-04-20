@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/75d44cae-0796-43ae-8159-52321998ab68
 ### **1. Resolution Unlock**
 
 **File:** `nodes.py` (line 57)
-![File:](viking_core/nodes.py)
+![](viking_core/nodes.py)
 ```python
 # BEFORE:
 MAX_RESOLUTION = 16384
