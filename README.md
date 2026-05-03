@@ -496,6 +496,6 @@ cp viking-engine/* comfy/
 
 **License:** CC BY-SA 4.0  
 **Status:** Production-ready (tested on RTX 4090)  
-**Repository:** [Viking-Memory-Bridge-Direct-RAM-Mapping-for-PyTorch-CUDA](https://github.com/orakulstorm-hue)
+**Repository:** [Viking-Memory-Bridge-Direct-RAM-Mapping-for-PyTorch-CUDA]([https://github.com/orakulstorm-hue](https://github.com/OrakulStudio/ComfyUI-Viking-Engine))
 
 *"Overclockers forever. Now with 32K support."* 🔥⚡
